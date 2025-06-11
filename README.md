@@ -1,2 +1,2 @@
-# Dynamic_Array
-this is a simple implementation for dynamic array
+# Dynamic-Array
+This is a simple dynamic array implementation 
